@@ -15,12 +15,44 @@
 
 }
 
+.bg-white {
+  background-color: #F2E8D8;
+}
+
+a:focus, .nested-links a:hover {
+  color: red;
+}
+
+
 .nested-links a{
   overflow-wrap: break-word;
+  transition: color 0.5s ease;
+  transition-property: all;
+  transition-duration: 0.5s;
+  transition-timing-function: ease;
+  transition-delay: 0s;
+  color: #8F4328;
+}
+
+.ba {
+  background-color: #945434;
+  color: #E2D0B0 !important;
+}
+
+aside > div {
+
+  background-color: #F2E8D8 !important;
+  border-style: solid;
+  border-color: #8F4328;
+
+}
+
+.brownish {
+  background-color: #F2E8D8;
 }
 
 h1 {
-  color: #163870;
+  color: #662F15;
 }
 
 p {

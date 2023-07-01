@@ -6,8 +6,17 @@ theme: "github.com/theNewDynamic/gohugo-theme-ananke"
 #[params]
 #  commentoEnable = true
 #disqusShortname: "biokompost"
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+outputs:
+  home:
+    - "HTML"
+    - "RSS"
 params:
-  recent_posts_number: 6
+  body_classes: "avenir, brownish"
+  recent_posts_number: 60
   favicon: "images/favicon.png"
   cover_dimming_class: "bg-black-10"
   background_color_class: "bg-black-10"
@@ -18,5 +27,5 @@ params:
     - "mystyles.css"
 languages:
   pl:
-    title: "Biokompost"
+    title: "Kuchnia statystycznie istotna"
     contentDir: "content"
