@@ -4,7 +4,7 @@ title: "Hamburgery wegetariańskie"
 date: 2020-05-19
 description: ""
 featured_image: ""
-categories: [ "Z patelni" ]
+categories: [ "Z patelni", "Wegetariańskie", "Wegańskie" ]
 tags: [ "bułka tarta", "cebula", "cieciorka", "hamburgery", "jajko", "wege", "wegetariańskie" ]
 ---
 

@@ -4,7 +4,7 @@ title: "Racuchy z fetą i dymką"
 date: 2022-09-12
 description: ""
 featured_image: ""
-categories: [ "Z patelni" ]
+categories: [ "Z patelni", "Wegetariańskie" ]
 tags: [ "dymka", "feta", "jajka", "wegetariańskie" ]
 ---
 
