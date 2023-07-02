@@ -4,7 +4,8 @@ title: "Chleb orkiszowy mk 3"
 date: 2019-04-21
 description: ""
 featured_image: ""
-tags: [ "Chleb", "drożdże", "mąka orkiszowa", "mąka pszenna", "zakwas" ]
+categories: [ "Chleb" ]
+tags: [ "drożdże", "mąka orkiszowa", "mąka pszenna", "zakwas" ]
 ---
 
 <!-- Number 11 -->

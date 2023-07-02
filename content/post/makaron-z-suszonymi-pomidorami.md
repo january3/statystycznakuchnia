@@ -4,7 +4,8 @@ title: "Makaron z suszonymi pomidorami"
 date: 2021-03-07
 description: ""
 featured_image: ""
-tags: [ "białe wino", "czarne oliwki", "czosnek", "Makaron", "parmezan", "suszone pomidory" ]
+categories: [ "Makaron" ]
+tags: [ "białe wino", "czarne oliwki", "czosnek", "parmezan", "suszone pomidory" ]
 ---
 
 <!-- Number 43 -->

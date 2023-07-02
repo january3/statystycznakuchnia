@@ -4,7 +4,8 @@ title: "Śledzie mojej mamy"
 date: 2019-04-21
 description: ""
 featured_image: "/images/sledzie.jpg"
-tags: [ "cebula", "cytryna", "Przepisy mojej mamy", "śledzie" ]
+categories: [ "Przepisy mojej mamy" ]
+tags: [ "cebula", "cytryna", "śledzie" ]
 ---
 
 <!-- Number 7 -->

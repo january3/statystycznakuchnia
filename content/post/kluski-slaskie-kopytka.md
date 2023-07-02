@@ -4,7 +4,8 @@ title: "Kluski śląskie / Kopytka"
 date: 2020-09-29
 description: ""
 featured_image: ""
-tags: [ "jajka", "Kluski", "kluski śląskie", "kopytka", "mąka pszenna", "mąka ziemniaczana", "ziemniaki" ]
+categories: [ "Kluski" ]
+tags: [ "jajka", "kluski śląskie", "kopytka", "mąka pszenna", "mąka ziemniaczana", "ziemniaki" ]
 ---
 
 <!-- Number 38 -->

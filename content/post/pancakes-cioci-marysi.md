@@ -4,7 +4,8 @@ title: "Pancakes Cioci Marysi"
 date: 2020-05-03
 description: ""
 featured_image: "/images/20200503_132147.jpg"
-tags: [ "naleśniki", "pancakes", "Z patelni" ]
+categories: [ "Z patelni" ]
+tags: [ "naleśniki", "pancakes" ]
 ---
 
 <!-- Number 27 -->

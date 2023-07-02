@@ -4,7 +4,8 @@ title: "Biały ser – prosty przepis bez czekania"
 date: 2020-01-29
 description: ""
 featured_image: "/images/img_20200128_060904-1.jpg"
-tags: [ "Nabiał", "ocet", "ser", "ser biały" ]
+categories: [ "Nabiał" ]
+tags: [ "ocet", "ser", "ser biały" ]
 ---
 
 <!-- Number 20 -->

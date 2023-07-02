@@ -4,7 +4,8 @@ title: "Quiche z cebulą"
 date: 2019-05-19
 description: ""
 featured_image: ""
-tags: [ "boczek", "cebula", "jajka", "kruche ciasto", "quiche", "Z pieca" ]
+categories: [ "Z pieca" ]
+tags: [ "boczek", "cebula", "jajka", "kruche ciasto", "quiche" ]
 ---
 
 <!-- Number 16 -->

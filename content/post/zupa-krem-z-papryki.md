@@ -4,7 +4,8 @@ title: "Zupa krem z papryki"
 date: 2022-09-12
 description: ""
 featured_image: ""
-tags: [ "cebula", "czosnek", "marchewka", "papryka", "pomidory", "wegetariańskie", "Zupy" ]
+categories: [ "Zupy" ]
+tags: [ "cebula", "czosnek", "marchewka", "papryka", "pomidory", "wegetariańskie" ]
 ---
 
 <!-- Number 48 -->

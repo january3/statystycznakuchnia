@@ -59,3 +59,18 @@ p {
   text-align: justify;
 }
 
+.sidebox-list {
+  list-style-type: none;
+}
+
+.tagcloud, div.tagcloud a {
+  border-style: none;
+  color: #945434 !important;
+  text-decoration: none;
+}
+
+ul.sidebox-list li a {
+  color: #945434 !important;
+  text-decoration: none;
+}
+

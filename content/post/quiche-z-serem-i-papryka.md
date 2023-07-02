@@ -4,7 +4,8 @@ title: "Quiche z serem i papryką"
 date: 2020-05-02
 description: ""
 featured_image: ""
-tags: [ "papryka", "ser", "Z pieca" ]
+categories: [ "Z pieca" ]
+tags: [ "papryka", "ser" ]
 ---
 
 <!-- Number 22 -->

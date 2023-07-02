@@ -1,0 +1,8 @@
+{{ range $category, $posts := .Site.Taxonomies.categories }}
+  <h2>{{ $category }}</h2>
+  <ul>
+    {{ range $posts }}
+      <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+    {{ end }}
+  </ul>
+{{ end }}

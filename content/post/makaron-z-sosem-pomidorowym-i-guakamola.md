@@ -4,7 +4,8 @@ title: "Makaron z sosem pomidorowym i guakamolą"
 date: 2020-08-19
 description: ""
 featured_image: ""
-tags: [ "czipsy", "guacamole", "lasagne", "Makaron", "pomidory" ]
+categories: [ "Makaron" ]
+tags: [ "czipsy", "guacamole", "lasagne", "pomidory" ]
 ---
 
 <!-- Number 37 -->

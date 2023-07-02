@@ -4,7 +4,8 @@ title: "Zupa z cukinii z pomidorami"
 date: 2019-04-26
 description: ""
 featured_image: ""
-tags: [ "cebula", "cukinia", "czosnek", "pomidory", "ser pleśniowy", "serek topiony", "Zupy", "złoty ementaler" ]
+categories: [ "Zupy" ]
+tags: [ "cebula", "cukinia", "czosnek", "pomidory", "ser pleśniowy", "serek topiony", "złoty ementaler" ]
 ---
 
 <!-- Number 13 -->

@@ -4,7 +4,8 @@ title: "Ciasto na makaron"
 date: 2021-02-09
 description: ""
 featured_image: ""
-tags: [ "ciasto", "Makaron", "pasta" ]
+categories: [ "Makaron" ]
+tags: [ "ciasto", "pasta" ]
 ---
 
 <!-- Number 42 -->

@@ -4,7 +4,8 @@ title: "Ryż meksykański (wege)"
 date: 2022-08-21
 description: ""
 featured_image: ""
-tags: [ "cebula", "fasola", "kukurydza", "papryka", "ryż", "Wegańskie", "Z patelni" ]
+categories: [ "Wegańskie", "Z patelni" ]
+tags: [ "cebula", "fasola", "kukurydza", "papryka", "ryż" ]
 ---
 
 <!-- Number 45 -->

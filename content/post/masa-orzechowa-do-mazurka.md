@@ -4,7 +4,8 @@ title: "Masa orzechowa do mazurka"
 date: 2019-04-26
 description: ""
 featured_image: ""
-tags: [ "cukier puder", "mazurek", "orzechy", "Przepisy mojej mamy", "śmietanka 18%" ]
+categories: [ "Przepisy mojej mamy" ]
+tags: [ "cukier puder", "mazurek", "orzechy", "śmietanka 18%" ]
 ---
 
 <!-- Number 14 -->

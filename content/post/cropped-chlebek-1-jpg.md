@@ -4,6 +4,7 @@ title: "cropped-chlebek-1.jpg"
 date: 2019-04-21
 description: ""
 featured_image: ""
+categories: [ "" ]
 tags: [ "" ]
 ---
 

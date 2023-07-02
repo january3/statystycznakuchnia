@@ -4,7 +4,8 @@ title: "Czerwony barszcz na szybko mojej mamy"
 date: 2019-04-27
 description: ""
 featured_image: ""
-tags: [ "barszcz", "barszcz czerwony", "buraki", "czosnek", "Przepisy mojej mamy", "Zupy" ]
+categories: [ "Przepisy mojej mamy", "Zupy" ]
+tags: [ "barszcz", "barszcz czerwony", "buraki", "czosnek" ]
 ---
 
 <!-- Number 15 -->

@@ -4,7 +4,8 @@ title: "Mozzarella"
 date: 2020-01-29
 description: ""
 featured_image: "/images/img_20200129_210938-1.jpg"
-tags: [ "mozzarella", "Nabiał", "ser" ]
+categories: [ "Nabiał" ]
+tags: [ "mozzarella", "ser" ]
 ---
 
 <!-- Number 18 -->

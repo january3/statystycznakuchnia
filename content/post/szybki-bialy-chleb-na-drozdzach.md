@@ -4,7 +4,8 @@ title: "Szybki biały chleb na drożdżach"
 date: 2020-05-02
 description: ""
 featured_image: ""
-tags: [ "biały chleb", "Chleb", "czarnuszka", "mąka orkiszowa", "mąka żytnia" ]
+categories: [ "Chleb" ]
+tags: [ "biały chleb", "czarnuszka", "mąka orkiszowa", "mąka żytnia" ]
 ---
 
 <!-- Number 24 -->

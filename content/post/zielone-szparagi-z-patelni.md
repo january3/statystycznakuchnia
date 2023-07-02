@@ -4,7 +4,8 @@ title: "Zielone szparagi z patelni"
 date: 2020-05-03
 description: ""
 featured_image: "/images/20200503_160808.jpg"
-tags: [ "aceto balsamico", "Szparagi", "Z patelni", "zielone szparagi" ]
+categories: [ "Szparagi", "Z patelni" ]
+tags: [ "aceto balsamico", "zielone szparagi" ]
 ---
 
 <!-- Number 31 -->

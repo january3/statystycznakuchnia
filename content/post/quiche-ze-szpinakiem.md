@@ -4,7 +4,8 @@ title: "Quiche ze szpinakiem"
 date: 2019-06-10
 description: ""
 featured_image: "/images/quiche.jpg"
-tags: [ "cebula", "parmezan", "quiche", "szpinak", "Z pieca" ]
+categories: [ "Z pieca" ]
+tags: [ "cebula", "parmezan", "quiche", "szpinak" ]
 ---
 
 <!-- Number 6 -->

@@ -4,7 +4,8 @@ title: "Biryani"
 date: 2023-06-23
 description: ""
 featured_image: ""
-tags: [ "cebula", "ciecierzyca", "cieciorka", "curry", "marchewka", "ryż", "Z patelni" ]
+categories: [ "Z patelni" ]
+tags: [ "cebula", "ciecierzyca", "cieciorka", "curry", "marchewka", "ryż" ]
 ---
 
 <!-- Number 51 -->

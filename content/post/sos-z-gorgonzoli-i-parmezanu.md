@@ -4,7 +4,8 @@ title: "Sos z gorgonzoli i parmezanu"
 date: 2020-05-06
 description: ""
 featured_image: ""
-tags: [ "gorgonzola", "parmezan", "Sosy" ]
+categories: [ "Sosy" ]
+tags: [ "gorgonzola", "parmezan" ]
 ---
 
 <!-- Number 35 -->

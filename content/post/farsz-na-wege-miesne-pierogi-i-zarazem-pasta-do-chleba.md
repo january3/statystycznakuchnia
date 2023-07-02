@@ -4,7 +4,8 @@ title: "Farsz na wege mięsne pierogi i zarazem pasta do chleba"
 date: 2021-05-21
 description: ""
 featured_image: ""
-tags: [ "cebula", "Makaron", "pasta do chleba", "pierogi", "soczewica", "suszone pomidory", "Wegańskie", "wege" ]
+categories: [ "Makaron", "Wegańskie" ]
+tags: [ "cebula", "pasta do chleba", "pierogi", "soczewica", "suszone pomidory", "wege" ]
 ---
 
 <!-- Number 44 -->

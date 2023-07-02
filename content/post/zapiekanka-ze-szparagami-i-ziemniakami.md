@@ -4,7 +4,8 @@ title: "Zapiekanka ze szparagami i ziemniakami"
 date: 2020-05-02
 description: ""
 featured_image: ""
-tags: [ "sos holenderski", "Szparagi", "Z pieca" ]
+categories: [ "Szparagi", "Z pieca" ]
+tags: [ "sos holenderski" ]
 ---
 
 <!-- Number 23 -->

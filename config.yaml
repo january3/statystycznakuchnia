@@ -15,6 +15,7 @@ outputs:
     - "HTML"
     - "RSS"
 params:
+  toc: true
   body_classes: "avenir, brownish"
   recent_posts_number: 60
   favicon: "images/favicon.png"
@@ -29,3 +30,4 @@ languages:
   pl:
     title: "Kuchnia statystycznie istotna"
     contentDir: "content"
+    toc: true

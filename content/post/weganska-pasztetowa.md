@@ -4,7 +4,8 @@ title: "Wegańska pasztetowa"
 date: 2020-09-29
 description: ""
 featured_image: ""
-tags: [ "agar agar", "cebula", "Do chleba", "drożdże", "orzechy włoskie", "pasztetowa" ]
+categories: [ "Do chleba" ]
+tags: [ "agar agar", "cebula", "drożdże", "orzechy włoskie", "pasztetowa" ]
 ---
 
 <!-- Number 39 -->

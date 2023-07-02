@@ -4,7 +4,8 @@ title: "Zupa grzybowa mojej mamy"
 date: 2019-04-21
 description: ""
 featured_image: "/images/img_20190426_103158.jpg"
-tags: [ "grzyby", "Przepisy mojej mamy", "zupa", "Zupy" ]
+categories: [ "Przepisy mojej mamy", "Zupy" ]
+tags: [ "grzyby", "zupa" ]
 ---
 
 <!-- Number 8 -->

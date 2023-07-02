@@ -4,7 +4,8 @@ title: "Chrust, czyli faworki"
 date: 2020-05-02
 description: ""
 featured_image: "/images/faworki.jpg"
-tags: [ "chrust", "Desery", "faworki", "Przepisy mojej mamy" ]
+categories: [ "Desery", "Przepisy mojej mamy" ]
+tags: [ "chrust", "faworki" ]
 ---
 
 <!-- Number 25 -->

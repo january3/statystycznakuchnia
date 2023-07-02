@@ -4,6 +4,7 @@ title: "About"
 date: 2009-12-16
 description: ""
 featured_image: ""
+categories: [ "" ]
 tags: [ "" ]
 ---
 

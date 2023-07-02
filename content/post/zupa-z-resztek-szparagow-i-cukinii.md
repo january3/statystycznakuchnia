@@ -4,7 +4,8 @@ title: "Zupa z resztek szparagów i cukinii"
 date: 2020-05-03
 description: ""
 featured_image: ""
-tags: [ "cukinia", "Szparagi", "Zupy" ]
+categories: [ "Szparagi", "Zupy" ]
+tags: [ "cukinia" ]
 ---
 
 <!-- Number 30 -->

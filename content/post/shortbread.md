@@ -4,7 +4,8 @@ title: "Shortbread"
 date: 2023-01-27
 description: ""
 featured_image: ""
-tags: [ "ciastko", "ciasto", "cukier", "masło", "Z pieca" ]
+categories: [ "Z pieca" ]
+tags: [ "ciastko", "ciasto", "cukier", "masło" ]
 ---
 
 <!-- Number 50 -->

@@ -4,7 +4,8 @@ title: "Mazurek"
 date: 2019-04-21
 description: ""
 featured_image: ""
-tags: [ "cukier", "masło", "mazurek", "mąka", "Przepisy mojej mamy", "żółtko" ]
+categories: [ "Przepisy mojej mamy" ]
+tags: [ "cukier", "masło", "mazurek", "mąka", "żółtko" ]
 ---
 
 <!-- Number 10 -->

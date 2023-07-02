@@ -4,7 +4,8 @@ title: "Zapiekanka z ryżu z papryką"
 date: 2020-05-04
 description: ""
 featured_image: "/images/20200504_184158.jpg"
-tags: [ "czosnek", "feta", "papryka", "ryż", "Z pieca", "zapiekanka" ]
+categories: [ "Z pieca" ]
+tags: [ "czosnek", "feta", "papryka", "ryż", "zapiekanka" ]
 ---
 
 <!-- Number 32 -->
