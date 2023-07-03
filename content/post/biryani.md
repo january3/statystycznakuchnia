@@ -4,7 +4,7 @@ title: "Biryani"
 date: 2023-06-23
 description: ""
 featured_image: ""
-categories: [ "Z patelni" ]
+categories: [ "Z patelni", "Wegetariańskie", "Wegańskie" ]
 tags: [ "cebula", "ciecierzyca", "cieciorka", "curry", "marchewka", "ryż" ]
 ---
 
@@ -17,40 +17,24 @@ Receptura na olbrzymi gar.
 
 
  * ryż basmati: 500g
-
  * trzy duże ząbki czosnku
-
  * cztery średnie marchewki
-
  * dwie małe puszki cieciorki
-
  * dwie spore cebule
-
  * 2cm kawałek imbiru
-
  * pęczek dymki
-
  * paczka jasnych rodzynek
-
  * paczka nerkowców
-
  * łyżka bulionu warzywnego w proszku
-
  * łyżka przecieru pomidorowego
-
- * jogurt grecki ca. 700g
+ * jogurt grecki ca. 700g (albo wegański odpowiednik)
 
 
 Przyprawy:
 
-
-
  * 2-3 łyżki curry (albo więcej)
-
  * 2-3 łyżeczki kurkumy
-
  * łyżeczka kardamonu
-
  * 1-2 łyżeczki chili w płatkach
 
 

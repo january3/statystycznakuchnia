@@ -1,7 +1,9 @@
 <div class="tagcloud pa3">
 {{/* code from https://mertbakir.gitlab.io/hugo/tag-cloud-in-hugo/ */}}
 {{ $tags := .tags }}
-{{ $minsize := .minsize }}
+{{ $minsize := .minsize | default 1 }}
+{{ $aslist  := .aslist  | default false }}
+{{ if $aslist }}<ul>{{ end }}
 {{ if ne (len $tags) 0 }}
   {{ $largestFontSize := 1.4 }}
   {{ $smallestFontSize := 1.0 }}
@@ -16,8 +18,11 @@
     {{ $currentFontSize := (add $smallestFontSize (mul (sub $tagCount $min) $fontStep) ) }}
     {{ $weigth := div (sub (math.Log $tagCount) (math.Log $min)) (sub (math.Log $max) (math.Log $min)) }}
     {{ $currentFontSize := (add $smallestFontSize (mul (sub $largestFontSize $smallestFontSize) $weigth)) }}
-      <a href="{{ "/tags/" | relURL }}{{ $name | urlize }}" class="tagcloud-item" style="font-size: {{ $currentFontSize }}rem;"> {{ $name }}<sup>{{ $tagCount }}</sup></a>
+    {{ if $aslist }}<li>{{ end }}
+      <a href="{{ "/tags/" | relURL }}{{ $name | urlize }}" class="tagcloud-item" style="font-size: {{ $currentFontSize }}rem;"> {{ $taxonomy.Page.Name }}<sup>{{ $tagCount }}</sup></a>
+    {{ if $aslist }}</li>{{ end }}
     {{ end }}
   {{ end }}
 {{ end }}
+{{ if $aslist }}</ul>{{ end }}
 </div> 

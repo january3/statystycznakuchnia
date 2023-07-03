@@ -4,7 +4,7 @@ title: "Ciasto na makaron"
 date: 2021-02-09
 description: ""
 featured_image: ""
-categories: [ "Makaron" ]
+categories: [ "Makaron", "Wegańskie" ]
 tags: [ "ciasto", "pasta" ]
 ---
 
@@ -15,9 +15,7 @@ Na lasagnę, tagliatelle, spaghetti, ravioli etc etc.
 
 
  * 1 jajko na 100-150 g mąki
-
  * szczypta soli
-
  * odrobineczka wody jeśli nie będzie chciało się tak zagnieść
 
 

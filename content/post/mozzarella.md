@@ -4,7 +4,7 @@ title: "Mozzarella"
 date: 2020-01-29
 description: ""
 featured_image: "/images/img_20200129_210938-1.jpg"
-categories: [ "Nabiał" ]
+categories: [ "Nabiał", "Wegetariańskie" ]
 tags: [ "mozzarella", "ser" ]
 ---
 

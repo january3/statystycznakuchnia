@@ -4,7 +4,7 @@ title: "Sos z gorgonzoli i parmezanu"
 date: 2020-05-06
 description: ""
 featured_image: ""
-categories: [ "Sosy", "Wegetariańskie" ]
+categories: [ "Sosy", "Wegetariańskie", "Makaron" ]
 tags: [ "gorgonzola", "parmezan" ]
 ---
 

@@ -35,8 +35,8 @@ a:focus, .nested-links a:hover {
 }
 
 .ba {
-  background-color: #945434;
-  color: #E2D0B0 !important;
+  background-color: #E2D0B0;
+  color: #945434 !important;
 }
 
 aside > div {

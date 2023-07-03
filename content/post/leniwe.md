@@ -4,7 +4,7 @@ title: "Leniwe"
 date: 2021-01-12
 description: ""
 featured_image: ""
-categories: [ "Kluski", "Nabiał" ]
+categories: [ "Kluski", "Nabiał", "Wegetariańskie" ]
 tags: [ "kluski kładzione", "kładzione", "leniwe", "pierogi leniwe" ]
 ---
 
