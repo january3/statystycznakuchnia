@@ -1,8 +1,8 @@
 ---
-title: "Ciasteczka z pudełeczka"
-date: 2020-05-02
+title: "Ciasteczka do pudełeczka"
+date: 2020-07-31
 description: ""
-featured_image: "/images/faworki.jpg"
+featured_image: "/statystycznakuchnia/post/ciasteczka-do-pudeleczka/IMG_20230730_133737044.jpg"
 categories: [ "Desery", "Przepisy mojej mamy" ]
 tags: [ "ciastka", "ciasteczka" ]
 ---
@@ -20,7 +20,7 @@ Wyrobić, schłodzić, formować ciasteczka, piec. Ciasteczka można posypać
 cukrem "kryształ" lub makiem.
 
 
-
+![](IMG_20230730_133737044.jpg)
 
 
 
