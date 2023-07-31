@@ -2,7 +2,7 @@
 title: "Ciasteczka do pudełeczka"
 date: 2020-07-31
 description: ""
-featured_image: "/statystycznakuchnia/post/ciasteczka-do-pudeleczka/IMG_20230730_133737044.jpg"
+featured_image: "/post/ciasteczka-do-pudeleczka/IMG_20230730_133737044.jpg"
 categories: [ "Desery", "Przepisy mojej mamy" ]
 tags: [ "ciastka", "ciasteczka" ]
 ---
